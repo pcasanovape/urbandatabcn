@@ -1,7 +1,8 @@
 # PRÀCTICA 2. M2.959 Visualització de dades
 
+
 ## Descripció
-**Pràctica 2 de l'assignatura Tipologia i cicle de vida de les dades del Màster de Ciència de dades de la UOC.**
+**Pràctica 2 de l'assignatura Visualització de dades del Màster de Ciència de dades de la UOC.**
 
 Amb aquesta segona pràctica s’ha volgut analitzar i descriure amb dades la realitat urbana de la ciutat de Barcelona des de diferents perspectives, aprofitant l’enorme varietat i riquesa de conjunts de dades disponibles a la web OpenData de l’Ajuntament. Totes aquestes dades s’han processat amb llenguatge Python per generar mapes interactius i altres tipus de visualitzacions, que ens permeten tenir una visió més ampla de com està conformada la ciutat.
 
