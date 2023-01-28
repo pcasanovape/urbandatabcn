@@ -26,7 +26,7 @@ A banda d’això, tots els arxius utilitzats o generats per al desenvolupament 
 ## Descripció dels fitxers
 ### Datasets/
 * **TAULA_MAP_ILLA.csv**: – conté dades urbanístiques de parcel·lació i usos de totes les illes de Barcelona
-* **2.json**: – conté dades geomètriques formades per polígons de coordenades de totes les unitats administratives de Barcelona, tant de barris com de districtes
+* **/shapefiles/geom/2.json**: – conté dades geomètriques formades per polígons de coordenades de totes les unitats administratives de Barcelona, tant de barris com de districtes
 * **2021_densitat.csv**: – conté dades sobre la densitat de població de Barcelona de l’any 2021
 * **2022_comp_vend_preu_trim.csv**: – conté dades de preus mitjans de compravenda d’habitatges per trimestres i per barris de l’any 2022
 * **2022_lloguer_preu_trim.csv**: – conté dades de preus mitjans de lloguer d’habitatge per trimestres i per barris de l’any 2022.
@@ -35,7 +35,8 @@ A banda d’això, tots els arxius utilitzats o generats per al desenvolupament 
 * **OD_Arbrat_Parcs_BCN.csv**: – arbrat situat en parcs urbans.
 
 ### Source/
-* **PRA2-VD_pcasanovape.ipynb**: Fitxer Jupyter Notebook que conté el codi emprat per al desenvolupament de la pràctica, incloent preprocessat i generació de visualitzacions, amb comentaris.
-* **PRA2-VD_pcasanovape.html**: Fitxer HTML que conté el codi emprat per al desenvolupament de la pràctica, incloent preprocessat i generació de visualitzacions, amb comentaris.
-
+* **PRA2-VD-P124_pcasanovape.ipynb**: Fitxer Jupyter Notebook que conté el codi emprat per al desenvolupament de les parts 1, 2 i 4 de la pràctica, incloent preprocessat i generació de visualitzacions, amb comentaris.
+* **PRA2-VD-P124_pcasanovape.html**: Fitxer HTML que conté el codi emprat per al desenvolupament de les parts 1, 2 i 4 de la pràctica, incloent preprocessat i generació de visualitzacions, amb comentaris.
+* **PRA2-VD-P3_pcasanovape.ipynb**: Fitxer Jupyter Notebook que conté el codi emprat per al desenvolupament de la part 3 de la pràctica, incloent preprocessat i generació de visualitzacions, amb comentaris.
+* **PRA2-VD-P3_pcasanovape.html**: Fitxer HTML que conté el codi emprat per al desenvolupament de la part 3 de la pràctica, incloent preprocessat i generació de visualitzacions, amb comentaris.
 
