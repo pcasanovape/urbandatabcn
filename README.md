@@ -1,4 +1,4 @@
-# PRÀCTICA 2. Visualització de dades
+# PRÀCTICA 2. M2.959 Visualització de dades
 
 ## Descripció
 **Pràctica 2 de l'assignatura Tipologia i cicle de vida de les dades del Màster de Ciència de dades de la UOC.**
