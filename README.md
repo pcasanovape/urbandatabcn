@@ -17,14 +17,14 @@ Per la realització de la pràctica hem decidit treballar a nivell de barri com 
 
 Tots els conjunts de dades utilitzats tenen llicència Creative Commons Attribution 4.0, el que en permet el seu ús lliure i la seva difusió.
 
-# Eines emprades
+### Eines emprades
 La totalitat de la pràctica ha estat realitzada amb Python, tant el preprocessament de les dades com la generació de visualitzacions. Per a la generació de mapes interactius a partir dels polígons de coordenades, s’ha treballat amb la llibreria Folium, que permet visualitzar dades geogràfiques de manera interactiva sobre un mapa base OpenStreetMap, representant les dades tant per punts com per àrees, a partir de la geometria introduïda en polígons de coordenades.
 Per les visualitzacions no cartogràfiques hem utilitzat la llibreria plotly, que permet generar tota mena de gràfiques interactives, com per exemple els clàssics gràfics de barres, de pastís o de dispersió, amb una gran varietat d’opcions per adaptar-les a voluntat.
 A banda d’això, tots els arxius utilitzats o generats per al desenvolupament de la pràctica estan disponibles públicament al repositori Github de la pràctica, que podeu trobar en l’enllaç que veieu en pantalla.
 
  
 ## Descripció dels fitxers
-# Datasets/
+### Datasets/
 * **TAULA_MAP_ILLA.csv**: – conté dades urbanístiques de parcel·lació i usos de totes les illes de Barcelona
 * **2.json**: – conté dades geomètriques formades per polígons de coordenades de totes les unitats administratives de Barcelona, tant de barris com de districtes
 * **2021_densitat.csv**: – conté dades sobre la densitat de població de Barcelona de l’any 2021
@@ -34,7 +34,7 @@ A banda d’això, tots els arxius utilitzats o generats per al desenvolupament 
 * **OD_Arbrat_Zona_BCN.csv**: – és el mateix que el cas anterior però referit als arbres que es troben en places, parterres i espais enjardinats.
 * **OD_Arbrat_Parcs_BCN.csv**: – arbrat situat en parcs urbans.
 
-# Source/
+### Source/
 * **PRA2-VD_pcasanovape.ipynb**: Fitxer Jupyter Notebook que conté el codi emprat per al desenvolupament de la pràctica, incloent preprocessat i generació de visualitzacions, amb comentaris.
 * **PRA2-VD_pcasanovape.html**: Fitxer HTML que conté el codi emprat per al desenvolupament de la pràctica, incloent preprocessat i generació de visualitzacions, amb comentaris.
 
