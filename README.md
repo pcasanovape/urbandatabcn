@@ -35,8 +35,7 @@ A banda d’això, tots els arxius utilitzats o generats per al desenvolupament 
 * **OD_Arbrat_Parcs_BCN.csv**: – arbrat situat en parcs urbans.
 
 ### Source/
-* **PRA2-VD-P124_pcasanovape.ipynb**: Fitxer Jupyter Notebook que conté el codi emprat per al desenvolupament de les parts 1, 2 i 4 de la pràctica, incloent preprocessat i generació de visualitzacions, amb comentaris.
-* **PRA2-VD-P124_pcasanovape.html**: Fitxer HTML que conté el codi emprat per al desenvolupament de les parts 1, 2 i 4 de la pràctica, incloent preprocessat i generació de visualitzacions, amb comentaris.
-* **PRA2-VD-P3_pcasanovape.ipynb**: Fitxer Jupyter Notebook que conté el codi emprat per al desenvolupament de la part 3 de la pràctica, incloent preprocessat i generació de visualitzacions, amb comentaris.
-* **PRA2-VD-P3_pcasanovape.html**: Fitxer HTML que conté el codi emprat per al desenvolupament de la part 3 de la pràctica, incloent preprocessat i generació de visualitzacions, amb comentaris.
+* **PRA2-VD_pcasanovape.ipynb**: Fitxer Jupyter Notebook que conté el codi emprat per al desenvolupament de la pràctica, incloent preprocessat i generació de visualitzacions, amb comentaris.
+* **PRA2-VD4_pcasanovape.html**: Fitxer HTML que conté el codi emprat per al desenvolupament de la pràctica, incloent preprocessat i generació de visualitzacions, amb comentaris.
+
 
